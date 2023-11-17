@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">FliprApp</string>
+    <string-array name="filterCategory">
+        <item name="filter_none">Select Category</item>
+        <item name="filter_1">chemistry</item>
+        <item name="filter_2">economics</item>
+        <item name="filter_3">literature</item>
+        <item name="filter_4">medicine</item>
+        <item name="filter_5">peace</item>
+        <item name="filter_6">physics</item>
+    </string-array>
+
+
+    <!--    <string-array name="filterYear">-->
+    <!--        <item name="filter_none">Select Category</item>-->
+    <!--        <item name="filter_1">chemistry</item>-->
+    <!--        <item name="filter_2">economics</item>-->
+    <!--    </string-array>-->
+</resources>

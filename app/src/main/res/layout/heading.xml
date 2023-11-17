@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/heading"
+    app:layout_constraintTop_toTopOf="parent"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:fontFamily="@font/aclonica"
+    android:padding="10dp"
+    android:text="Nobel Prize Winners \n ( 1900 - 2018 )"
+    android:textAlignment="center"
+    android:textColor="#D0584293"
+    android:textSize="18dp" />
